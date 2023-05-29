@@ -14,6 +14,11 @@ This is a project to reinvent the current board-computer. It is still based on E
   - Programmed for easier customization
   - Toolchains for generating icons etc.
 
+## Documentation
+- [PCB](kicad/README.md)
+- [Entertainment Firmware](entertainment-firmware/README.md)
+- [Input Firmware](input-firmware/README.md)
+
 ## New Structure
 
 The idea is to split the old board-computer into multiple parts:
