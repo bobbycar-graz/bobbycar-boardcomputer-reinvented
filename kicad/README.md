@@ -21,3 +21,4 @@ This PCB will have both MCUs, a few connectors and a USB-C port for flashing.
 - [ ] Check CAN pins
 - [ ] Beeper connected to +3V3 instead of +5V
 - [ ] Check J5 lcsc and footprint
+- [ ] Check Strapping Pins & SPI Flash Voltage (Section Below Strapping Pins) (https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf#cd-pins-strap)
